@@ -1,0 +1,14 @@
+programming course
+
+-demos
+-lectures
+
+-pw
+integration course
+-ex tempores
+-demos
+-lectures
+literature course
+-demos
+-lectures
+-reading circle
